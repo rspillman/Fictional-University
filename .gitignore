@@ -1,0 +1,26 @@
+app/public/local.php
+
+# Numerous always-ignore extensions
+*.diff
+*.err
+*.orig
+*.prev
+*.log
+*.rej
+*.swo
+*.swp
+*.vi
+*~
+*.sass-cach
+node_modules/
+.tmp/
+
+# OS or Editor folders
+.DS_Store
+Thumbs.db
+.cache
+.project
+.settings
+.tmproj
+*.esproj
+nbproject
